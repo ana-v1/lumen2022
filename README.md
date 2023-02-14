@@ -1,6 +1,6 @@
 # Lumen Data Science 2022
 Lumen in the biggest student competition in Croatia. Data Science use case: **GeoGuessr AI Agent**. 
-The agent is to be specialised for the area of mainland Croatia and tries to guess the location of the input image(s) (task linked [here](https://github.com/ana-v1/lumen2022/blob/main/lumen-datasci-2022-3.pdf)).
+The agent is to be specialised for the area of mainland Croatia and tries to guess the location of the input image(s) (use case description [here](https://github.com/ana-v1/lumen2022/blob/main/lumen-datasci-2022-3.pdf)).
 
 Members of the team **main explorers**:
 - Ivana Barišić
